@@ -16,5 +16,5 @@ Due to confidentiality, the data is not made public. The python code is made ava
 
 
 ## Credits
-This project would not be possible without the efforts of my fellow teammaates Joseph Fang, Himani Agarwal
+This project would not be possible without the efforts of my fellow teammates Anusha Mohan, Joseph Wiley, Jianda Zhou
 
